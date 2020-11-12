@@ -68,7 +68,7 @@ a {
 	background: transparent;
 }
 
-a:active,
+a:active, 
 a:hover {
 	outline: 0;
 }
@@ -107,6 +107,7 @@ sup {
 	position: relative;
 	vertical-align: baseline;
 }
+
 
 sup {
 	top: -0.5em;
