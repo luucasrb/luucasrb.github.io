@@ -2052,14 +2052,14 @@ header .logo a {
 }
 
 /**
- * section ads - (_layout.scss)
+ * section tst - (_layout.scss)
  * ------------------------------------------------------------------- 
  */
-.section-ads h2 {
+.section-tst h2 {
 	position: relative;
 	padding-bottom: 2.1rem;
 }
-.section-ads h2::after {
+.section-tst h2::after {
 	content: "";
 	display: block;
 	height: 3px;
@@ -2070,10 +2070,10 @@ header .logo a {
 	bottom: 0;
 	margin-left: -40px;
 }
-.section-ads h2 a, .section-ads h2 a:visited {
+.section-tst h2 a, .section-tst h2 a:visited {
 	color: #313131;
 }
-.section-ads span {
+.section-tst span {
 	color: #3F0D39;
 }
 
